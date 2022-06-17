@@ -25,7 +25,7 @@
   "dependencies": {
     "addressparser": "1.0.1",
     "iconv-lite": "0.5.0",
-    "mime": "2.4.4",
+    "mime": "2.6.0",
     "uue": "3.1.2"
   },
   "devDependencies": {
